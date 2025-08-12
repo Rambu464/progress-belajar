@@ -8,3 +8,7 @@ Belajar Dasar pemrograman JavaScript. (Progress 30%)
 * Belajar tentang sintaksis dan tipe data
 * Belajar tentang fungsi
 
+17 Agustus 2025<br>
+Belajar Dasar pemrograman JavaScript. (Progress 50%)
+--
+* Belajar tentang OOP
