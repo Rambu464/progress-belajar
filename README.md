@@ -18,3 +18,9 @@ Belajar Dasar pemrograman JavaScript. (Progress 100%)
 --
 * Dapat membuat program sederhana
 * Mendapatkan hasil yang bagus untuk submission
+
+
+**1 September 2025**<br>
+Rencana untuk belajar ML untuk pemula
+--
+* Berusaha untuk memulai belajar ML
