@@ -1,6 +1,8 @@
 Progress Belajar - Dicoding
 ==
 
+Learning web
+==
 **1 Agustus 2025**<br>
 Belajar web pemula. (Progress 30%)
 --
@@ -11,6 +13,8 @@ Belajar web pemula. (Progress 100%)
 --
 * Dapat membuat web sederhana dengan html dan css
 
+Learning JavaScript
+==
 **12 Agustus 2025**<br>
 Belajar Dasar pemrograman JavaScript. (Progress 30%)
 --
