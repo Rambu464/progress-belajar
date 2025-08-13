@@ -6,6 +6,11 @@ Belajar web pemula. (Progress 30%)
 --
 * Belajar tentang apa itu web browser dan struktur kerangka
 
+**4 Agustus 2025**<br>
+Belajar web pemula. (Progress 100%)
+--
+* Dapat membuat web sederhana dengan html dan css
+
 **12 Agustus 2025**<br>
 Belajar Dasar pemrograman JavaScript. (Progress 30%)
 --
